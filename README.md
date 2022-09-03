@@ -3,8 +3,8 @@
 ## ホームケアナビ作成用PJ(API)
 
 ### 環境構築
-1. APIリポジトリをクローンする　`https://github.com/rtkjm22/homeCareNavi_2nd_API.git`
-2. クローンしたAPIリポジトリに移動する　`cd homeCareNavi_2nd_API`
+1. APIリポジトリをクローンする　`https://github.com/736795/homeCareNavi_3rd_API.git`
+2. クローンしたAPIリポジトリに移動する　`cd homeCareNavi_3nd_API`
 3. compose.ymlを元に、dockerのdbイメージ及びapiイメージを立ち上げる　`docker compose build`
 4. 作成したイメージを元に、dockerコンテナを作成及び起動する　`dokcer compose up -d`
 
